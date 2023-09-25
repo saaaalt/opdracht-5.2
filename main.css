@@ -1,0 +1,32 @@
+.row {
+  width: 1200px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.row-reverse{
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+.blauw {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.zwart {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+}
+.groen {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
+.rood {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
